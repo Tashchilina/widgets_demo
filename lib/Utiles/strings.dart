@@ -1,0 +1,3 @@
+class Strings {
+  static const longBodyText = 'Each year fewer people speak English as their mother tongue - but more people speak it as a second or foreign language. In 1950 nearly of the worlds population spoke English as their first language By the proportion will have dropped to just over Chinese is spoken by more speakers than any other language and the numbers of speakers of Spanish Hindi/Urdu and Arabic are increasing rapidly ';
+}
